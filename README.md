@@ -1,1 +1,1 @@
-# Loan-Eligibility-Prediction-Decision-Trees-Random-Forest
+# Loan-Eligibility-Prediction-Decision-Tree-Random-Forest
